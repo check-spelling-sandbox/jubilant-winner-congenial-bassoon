@@ -1,0 +1,8 @@
+name: jubilant-winner-congenial-bassoon
+description: jubilant winner congenial bassoon
+runs:
+  using: 'composite'
+  steps:
+    - shell: bash
+      run: |
+        echo :tada: :musical_score:
