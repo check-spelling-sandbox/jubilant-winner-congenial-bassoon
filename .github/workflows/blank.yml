@@ -1,0 +1,11 @@
+name: blank
+
+on:
+  push:
+jobs:
+  blank:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Blank
+        run: |
+          : blank
